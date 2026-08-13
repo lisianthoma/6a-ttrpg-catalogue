@@ -8,7 +8,10 @@ primary features:
 ---
 > [!infobox]
 > ###### Name
-> ![[image.png|400]]
+> ![[Pasted image 20260813162530.png|400]]
+> 
+> <center><b>a mech minigame about who's really in control</b></center> 
+> 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |
 > | ---- | ---- |
