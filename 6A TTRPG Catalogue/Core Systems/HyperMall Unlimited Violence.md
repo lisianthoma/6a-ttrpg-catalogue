@@ -7,8 +7,11 @@ gm type: GM
 primary features:
 ---
 > [!infobox]
-> ###### Name
-> ![[image.png|400]]
+> ###### HyperMall: Unlimited Violence
+> ![[HyperMall Unlimited Violence.png|400]]
+> 
+> <center><b>DELUXE GIG ECONOMY ASSASSINATION</b></center> 
+> 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |
 > | ---- | ---- |
