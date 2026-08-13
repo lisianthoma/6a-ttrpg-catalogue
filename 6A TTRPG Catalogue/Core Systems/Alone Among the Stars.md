@@ -8,7 +8,10 @@ primary features:
 ---
 > [!infobox]
 > ###### Name
-> ![[image.png|400]]
+> ![[Alone Among the Stars.png|400]]
+> 
+> <center><b>A solo roleplaying game about exploring fantastic planets.</b></center> 
+> 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |
 > | ---- | ---- |

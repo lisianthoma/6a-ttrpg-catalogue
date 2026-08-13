@@ -8,7 +8,7 @@ primary features:
 ---
 > [!infobox]
 > ###### Name
-> ![[Pasted image 20260813162530.png|400]]
+> ![[CMLLMC.png|400]]
 > 
 > <center><b>a mech minigame about who's really in control</b></center> 
 > 
