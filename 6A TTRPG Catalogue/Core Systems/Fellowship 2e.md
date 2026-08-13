@@ -10,7 +10,10 @@ primary features:
 ---
 > [!infobox]
 > ###### Name
-> ![[image.png|400]]
+> ![[Placeholder.png|400]]
+> 
+> <center><b>Tagline if available</b></center> 
+> 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |
 > | ---- | ---- |
