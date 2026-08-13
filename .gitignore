@@ -1,5 +1,8 @@
 # Workspace view gets ignored, so it stays local
 6A TTRPG Catalogue/.obsidian/workspace.json
 
+# Ignore graph view settings as well. Do that locally
+6A TTRPG Catalogue/.obsidian/graph.json
+
 # Nothing else should be ignored yet to my knowledge
 # Merge if I'm wrong
