@@ -8,8 +8,25 @@ playercount:
 gm type: GM
 primary features:
 ---
-link expansions somewhere in the page
-[[Fellowship Book 2 - Inverse Fellowship\|Fellowship Book 2]]
-[[Fellowship Book 3 - In Rebellion\|Fellowship Book 3]]
-[[Fellowship Book 4 - Generous Fellowship\|Fellowship Book 4]]
+> [!infobox]
+> ###### Name
+> ![[image.png|400]]
+> ###### Info
+> | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |
+> | ---- | ---- |
+> | <center></center> | <center></center> |
+> | <center></center> | <center></center> |
+> | <center></center> | <center></center> |
+> | <center></center> | <center></center> |
+> | <center></center> | <center></center> |
+
+> [!contents]+ Table of Contents
+> ```table-of-contents
+> ```
+
+> [!info]- Relevant Add-ons
+> [[Fellowship Book 2 - Inverse Fellowship\|Fellowship Book 2]]
+> [[Fellowship Book 3 - In Rebellion\|Fellowship Book 3]]
+> [[Fellowship Book 4 - Generous Fellowship\|Fellowship Book 4]]
+
 
