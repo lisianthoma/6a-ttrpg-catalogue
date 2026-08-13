@@ -1,0 +1,12 @@
+{
+  "cssTheme": "",
+  "theme": "obsidian",
+  "interfaceFontFamily": "Candara",
+  "baseFontSize": 18,
+  "enabledCssSnippets": [
+    "image",
+    "infobox_-_Copy",
+    "infobox"
+  ],
+  "accentColor": "#f5f05c"
+}

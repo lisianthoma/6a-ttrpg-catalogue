@@ -1,0 +1,22 @@
+
+.theme-dark .is-live-preview img {
+    opacity: 1;                   
+}
+
+.theme-dark .markdown-preview-view img {
+    opacity: 1;                   
+}
+
+.theme-dark .markdown-source-view img {
+    opacity: 1;                   
+}
+
+body {
+    --callout-blend-mode: normal;
+}
+
+/* hide properties view in reading view/mode */
+
+body {
+    --metadata-display-reading: none; 
+}

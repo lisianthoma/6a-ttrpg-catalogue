@@ -1,0 +1,26 @@
+filters:
+  or:
+    - file.inFolder("Core Systems")
+    - file.inFolder("Add-ons")
+    - file.inFolder("Uncertain")
+views:
+  - type: cards
+    name: Core Systems
+    filters:
+      and:
+        - file.inFolder("Core Systems")
+    order:
+      - file.name
+      - gm type
+      - playercount
+    sort: []
+  - type: cards
+    name: Add-ons
+    filters:
+      and:
+        - file.inFolder("Add-ons")
+    order:
+      - file.name
+    sort: []
+  - type: cards
+    name: All
