@@ -28,3 +28,10 @@ primary features:
 > [[Slayers - Almanac\|Almanac]]
 > [[Slayers - Corvidae\|Corvidae]]
 > [[Slayers - Dust\|Dust]]
+
+## Reviews
+##### Name here
+Review text
+
+##### Name here
+Review text

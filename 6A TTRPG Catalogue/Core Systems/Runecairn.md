@@ -1,8 +1,8 @@
 ---
 aliases:
   - 
-setting: 
-playercount: 2
+setting:
+playercount: "2"
 gm type: GM
 primary features:
 ---
@@ -24,3 +24,10 @@ primary features:
 
 > [!info]- Relevant Add-ons
 > link expansions somewhere in the page
+
+## Reviews
+##### Name here
+Review text
+
+##### Name here
+Review text

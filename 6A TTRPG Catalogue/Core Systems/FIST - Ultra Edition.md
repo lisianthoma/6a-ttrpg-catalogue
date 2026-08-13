@@ -28,3 +28,10 @@ primary features:
 > [[FIST - MANDLEBROT SET\|MANDLEBROT SET]]
 > [[FIST - RATIONS Collection\|RATIONS Collection]]
 
+## Reviews
+##### Name here
+Review text
+
+##### Name here
+Review text
+

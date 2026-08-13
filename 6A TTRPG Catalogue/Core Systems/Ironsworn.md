@@ -24,3 +24,10 @@ primary features:
 
 > [!info]- Relevant Add-ons
 > link expansions somewhere in the page
+
+## Reviews
+##### Name here
+Review text
+
+##### Name here
+Review text

@@ -24,3 +24,10 @@ primary features:
 
 > [!info]- Relevant Add-ons
 > [[DIGZYTE]]
+
+## Reviews
+##### Name here
+Review text
+
+##### Name here
+Review text
