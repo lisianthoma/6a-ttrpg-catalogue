@@ -8,10 +8,10 @@ primary features:
   - Worldbuilding
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Grasping Nettles
+> ![[Grasping Nettles.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>worldbuilding over generations</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

@@ -7,10 +7,10 @@ gm type: GMless
 primary features:
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### DrachenPakt
+> ![[DrachenPakt.gif|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>A Dragon-Rider mini-TTRPG</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

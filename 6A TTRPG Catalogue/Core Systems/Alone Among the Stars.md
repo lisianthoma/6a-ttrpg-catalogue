@@ -7,7 +7,7 @@ gm type: Solo
 primary features:
 ---
 > [!infobox]
-> ###### Name
+> ###### Alone Among the Stars
 > ![[Alone Among the Stars.png|400]]
 > 
 > <center><b>A solo roleplaying game about exploring fantastic planets.</b></center> 

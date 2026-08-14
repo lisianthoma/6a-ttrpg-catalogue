@@ -7,10 +7,10 @@ gm type: GM
 primary features:
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### CAIN
+> ![[CAIN.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>Psychic death soldiers in a quest to purge humanity's stain</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

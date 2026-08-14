@@ -8,10 +8,10 @@ primary features:
   - Worldbuilding
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### A Perfect Rock
+> ![[A Perfect Rock.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>Explore the stars, make planets from rocks, find a new home.</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

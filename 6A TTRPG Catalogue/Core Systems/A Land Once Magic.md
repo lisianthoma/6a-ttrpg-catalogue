@@ -7,10 +7,10 @@ gm type: GMless
 primary features:
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### A Land Once Magic
+> ![[A Land Once Magic.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>A conversational post-fantasy worldbuilding game</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

@@ -7,7 +7,7 @@ gm type: GM
 primary features:
 ---
 > [!infobox]
-> ###### Name
+> ###### Mothership
 > ![[Placeholder.png|400]]
 > 
 > <center><b>Tagline if available</b></center> 

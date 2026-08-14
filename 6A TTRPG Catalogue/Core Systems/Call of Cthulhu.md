@@ -7,7 +7,7 @@ gm type: GM
 primary features:
 ---
 > [!infobox]
-> ###### Name
+> ###### Call of Cthulhu
 > ![[Placeholder.png|400]]
 > 
 > <center><b>Tagline if available</b></center> 

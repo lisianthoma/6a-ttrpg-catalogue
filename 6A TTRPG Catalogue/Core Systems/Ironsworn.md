@@ -7,10 +7,10 @@ gm type: Both GM and GMless
 primary features:
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Ironsworn
+> ![[Ironsworn.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>A tabletop RPG of perilous quests for solo, co-op, and guided play</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

@@ -7,10 +7,10 @@ gm type: GM
 primary features:
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Dragon Slayers
+> ![[Dragon Slayers.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>Dragons! Quests! Adventure! Fantasy TTRPG with asymmetrical classes.</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

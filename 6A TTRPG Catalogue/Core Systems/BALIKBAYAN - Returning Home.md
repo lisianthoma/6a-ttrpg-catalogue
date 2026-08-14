@@ -7,10 +7,10 @@ gm type: Both GM and GMless
 primary features:
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### BALIKBAYAN: Returning Home
+> ![[BALIKBAYAN.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>A Supernatural-Cyberpunk Revolution</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

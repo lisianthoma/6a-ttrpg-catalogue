@@ -8,10 +8,10 @@ primary features:
   - Mecha
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### LANCER Core Book
+> ![[LANCER.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>The core rulebook and setting guide for Lancer, a game centered on pilots and their mechs.</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

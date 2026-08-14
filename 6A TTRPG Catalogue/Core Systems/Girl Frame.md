@@ -8,10 +8,10 @@ primary features:
   - Mecha
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### GIRL FRAME
+> ![[GIRL FRAME.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>Lesbians in mechs, struggling against oppression and eldritch horrors</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

@@ -7,10 +7,10 @@ gm type: GMless
 primary features:
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Feathers
+> ![[Feathers.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>a slice-of-life game of fallen angels and Belonging Outside Belonging</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

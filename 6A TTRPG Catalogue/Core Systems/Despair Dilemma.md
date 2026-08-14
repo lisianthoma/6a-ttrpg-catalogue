@@ -7,10 +7,10 @@ gm type: GMless
 primary features:
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Despair Dilemma
+> ![[Despair Dilemma.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>A Death Game Mastermind TTRPG</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

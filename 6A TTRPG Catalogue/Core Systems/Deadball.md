@@ -8,7 +8,7 @@ primary features:
   - Baseball
 ---
 > [!infobox]
-> ###### Name
+> ###### Deadball
 > ![[Placeholder.png|400]]
 > 
 > <center><b>Tagline if available</b></center> 

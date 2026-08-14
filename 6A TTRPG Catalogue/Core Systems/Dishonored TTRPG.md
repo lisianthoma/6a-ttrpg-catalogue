@@ -10,7 +10,7 @@ primary features:
   - Magic
 ---
 > [!infobox]
-> ###### Name
+> ###### Dishonored
 > ![[Placeholder.png|400]]
 > 
 > <center><b>Tagline if available</b></center> 
