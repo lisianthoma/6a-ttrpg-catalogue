@@ -5,6 +5,7 @@ setting:
 playercount: 1+
 gm type: Both GM and GMless
 primary features:
+displayimage: Sacrifices.png
 ---
 > [!infobox]
 > ###### Sacrifices

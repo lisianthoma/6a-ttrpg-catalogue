@@ -5,6 +5,7 @@ setting:
 playercount: "1"
 gm type: Solo
 primary features:
+displayimage: Persona Obscura.png
 ---
 > [!infobox]
 > ###### Persona Obscura

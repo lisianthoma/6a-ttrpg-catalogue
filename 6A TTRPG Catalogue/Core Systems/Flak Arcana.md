@@ -6,6 +6,7 @@ playercount: 2+
 gm type: GMless
 primary features:
   - Skirmish
+displayimage: Flak Arcana.png
 ---
 > [!infobox]
 > ###### Flak Arcana

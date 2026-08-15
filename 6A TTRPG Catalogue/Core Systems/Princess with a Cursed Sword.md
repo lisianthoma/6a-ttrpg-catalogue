@@ -5,6 +5,7 @@ setting:
 playercount: "1"
 gm type: Solo
 primary features:
+displayimage: Princess with a Cursed Sword.png
 ---
 > [!infobox]
 > ###### Princess with a Cursed Sword

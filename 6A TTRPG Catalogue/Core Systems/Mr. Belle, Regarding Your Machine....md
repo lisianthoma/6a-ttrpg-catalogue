@@ -5,6 +5,7 @@ setting:
 playercount: 1
 gm type: Solo
 primary features: Worldbuilding
+displayimage: Mr. Belle, Regarding Your Machine.png
 ---
 > [!infobox]
 > ###### Mr. Belle, Regarding Your Machine...

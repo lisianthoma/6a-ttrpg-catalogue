@@ -5,6 +5,7 @@ setting:
 playercount: 2 - 4
 gm type: GMless
 primary features:
+displayimage: Revolt!.png
 ---
 > [!infobox]
 > ###### Revolt!

@@ -6,6 +6,7 @@ playercount: "2"
 gm type: GMless
 primary features:
   - Chess
+displayimage: Chess 2.png
 ---
 > [!infobox]
 > ###### Chess 2

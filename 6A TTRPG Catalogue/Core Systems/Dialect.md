@@ -5,6 +5,7 @@ setting:
 playercount: 3 - 5
 gm type: GMless
 primary features:
+displayimage: 
 ---
 > [!infobox]
 > ###### Dialect

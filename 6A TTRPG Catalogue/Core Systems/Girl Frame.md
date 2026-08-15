@@ -6,6 +6,7 @@ playercount: 3+
 gm type: GM
 primary features:
   - Mecha
+displayimage: GIRL FRAME.png
 ---
 > [!infobox]
 > ###### GIRL FRAME

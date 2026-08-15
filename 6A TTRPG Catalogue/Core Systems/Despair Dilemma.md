@@ -5,6 +5,7 @@ setting:
 playercount: 2+
 gm type: GMless
 primary features:
+displayimage: Despair Dilemma.png
 ---
 > [!infobox]
 > ###### Despair Dilemma

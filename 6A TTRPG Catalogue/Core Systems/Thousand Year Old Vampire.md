@@ -5,6 +5,7 @@ setting:
 playercount: "1"
 gm type: Solo
 primary features:
+displayimage: Thousand Year Old Vampire.png
 ---
 > [!infobox]
 > ###### Thousand Year Old Vampire

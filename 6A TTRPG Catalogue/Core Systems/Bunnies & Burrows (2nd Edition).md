@@ -5,6 +5,7 @@ setting:
 playercount: 2+
 gm type: GM
 primary features: 
+displayimage: Bunnies & Burrows 1982.png
 ---
 > [!infobox]
 > ###### Bunnies & Burrows (2nd Edition)

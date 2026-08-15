@@ -5,6 +5,7 @@ setting:
 playercount: 2 - 7
 gm type: GM
 primary features:
+displayimage: Strays.png
 ---
 > [!infobox]
 > ###### Strays

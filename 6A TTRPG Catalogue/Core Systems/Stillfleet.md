@@ -5,6 +5,7 @@ setting:
 playercount: 2+
 gm type: GM
 primary features:
+displayimage: Stillfleet.png
 ---
 > [!infobox]
 > ###### Stillfleet Core Rulebook ☉ CRB001

@@ -6,6 +6,7 @@ playercount: 3+
 gm type: GMless
 primary features:
   - Worldbuilding
+displayimage: The Hall.png
 ---
 > [!infobox]
 > ###### The Hall

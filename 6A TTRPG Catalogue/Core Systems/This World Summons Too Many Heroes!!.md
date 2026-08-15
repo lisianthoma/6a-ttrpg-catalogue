@@ -5,6 +5,7 @@ setting:
 playercount: 3+
 gm type: GM
 primary features:
+displayimage: TWSTMH.png
 ---
 > [!infobox]
 > ###### This World Summons Too Many Heroes!! Definitive Edition

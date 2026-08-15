@@ -5,6 +5,7 @@ setting:
 playercount: "1"
 gm type: Solo
 primary features:
+displayimage: MHITFOG.png
 ---
 > [!infobox]
 > ###### My Hands In The Fates Of Gods

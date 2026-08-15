@@ -5,6 +5,7 @@ setting:
 playercount: 4
 gm type: GM
 primary features:
+displayimage: Disparateum.png
 ---
 > [!infobox]
 > ###### Disparateum

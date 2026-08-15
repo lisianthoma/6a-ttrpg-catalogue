@@ -5,6 +5,7 @@ setting:
 playercount: 3 - 5
 gm type: GM
 primary features:
+displayimage: The Phone Booth.png
 ---
 > [!infobox]
 > ###### Name

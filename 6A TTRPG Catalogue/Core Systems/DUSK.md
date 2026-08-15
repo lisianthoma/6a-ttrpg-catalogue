@@ -5,6 +5,7 @@ setting:
 playercount:
 gm type: 
 primary features:
+displayimage: DUSK.png
 ---
 > [!infobox]
 > ###### DUSK

@@ -5,6 +5,7 @@ setting:
 playercount: 3 - 6
 gm type: GM
 primary features:
+displayimage: Escape from Dino Island.png
 ---
 > [!infobox]
 > ###### Escape from Dino Island

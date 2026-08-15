@@ -5,6 +5,7 @@ setting:
 playercount: "2"
 gm type: GM
 primary features:
+displayimage: Dragons and Travellers Tales.png
 ---
 > [!infobox]
 > ###### Dragons & Travellers Tales

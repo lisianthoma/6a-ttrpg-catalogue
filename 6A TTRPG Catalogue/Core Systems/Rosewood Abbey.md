@@ -5,6 +5,7 @@ setting:
 playercount: 3+
 gm type: GM
 primary features:
+displayimage: Rosewood Abbey.png
 ---
 > [!infobox]
 > ###### Rosewood Abbey

@@ -1,10 +1,12 @@
 ---
 aliases:
   - 
-setting: 
+setting:
 playercount: 3-6
 gm type: GM
-primary features: Real candles!
+primary features:
+  - Real candles
+displayimage:
 ---
 > [!infobox]
 > ###### Ten Candles

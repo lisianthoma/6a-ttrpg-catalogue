@@ -6,6 +6,7 @@ playercount: 3+
 gm type: GM
 primary features:
   - Tactics
+displayimage: HELLPIERCERS.png
 ---
 > [!infobox]
 > ###### HELLPIERCERS

@@ -5,6 +5,7 @@ setting:
 playercount: 2 - 6
 gm type: GM
 primary features:
+displayimage: OUTCLAWS.png
 ---
 > [!infobox]
 > ###### OUTCLAWS

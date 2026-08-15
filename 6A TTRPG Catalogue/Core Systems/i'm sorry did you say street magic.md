@@ -5,6 +5,7 @@ setting:
 playercount: 2 - 6
 gm type: GMless
 primary features:
+displayimage: isdyssm.png
 ---
 > [!infobox]
 > ###### i'm sorry did you say street magic

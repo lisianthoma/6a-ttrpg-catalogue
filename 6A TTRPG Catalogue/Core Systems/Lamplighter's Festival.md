@@ -6,6 +6,7 @@ playercount: 1+
 gm type: GMless
 primary features:
   - Worldbuilding
+displayimage: Lamplighter's Festival.png
 ---
 > [!infobox]
 > ###### Lamplighter's Festival

@@ -5,6 +5,7 @@ setting:
 playercount: 3 - 4
 gm type: GM
 primary features:
+displayimage: 
 ---
 > [!infobox]
 > ###### Mothership

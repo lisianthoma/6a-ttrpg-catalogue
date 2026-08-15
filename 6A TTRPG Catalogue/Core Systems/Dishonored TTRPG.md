@@ -8,6 +8,7 @@ gm type: GM
 primary features:
   - Combat
   - Magic
+displayimage: Dishonored.png
 ---
 > [!infobox]
 > ###### Dishonored

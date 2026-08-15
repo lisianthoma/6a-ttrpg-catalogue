@@ -5,6 +5,7 @@ setting:
 playercount: "1"
 gm type: Solo
 primary features:
+displayimage: Rewwixta.png
 ---
 > [!infobox]
 > ###### Rewwixta

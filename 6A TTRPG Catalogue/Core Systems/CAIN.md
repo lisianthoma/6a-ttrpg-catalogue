@@ -5,6 +5,7 @@ setting:
 playercount:
 gm type: GM
 primary features:
+displayimage: CAIN.png
 ---
 > [!infobox]
 > ###### CAIN

@@ -5,6 +5,7 @@ setting:
 playercount: 1 - 5
 gm type: GM
 primary features:
+displayimage: Triangle Agency.png
 ---
 > [!infobox]
 > ###### Triangle Agency

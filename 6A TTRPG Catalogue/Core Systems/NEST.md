@@ -5,6 +5,7 @@ setting:
 playercount:
 gm type: 
 primary features:
+displayimage: NEST.png
 ---
 > [!infobox]
 > ###### NEST

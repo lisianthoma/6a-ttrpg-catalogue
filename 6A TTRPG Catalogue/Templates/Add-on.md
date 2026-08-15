@@ -1,10 +1,11 @@
 ---
 aliases:
   - 
-setting:
-playercount:
-primary features:
-tags:
+setting: 
+playercount: 
+primary features: 
+tags: 
+displayimage: 
 ---
 
 > [!contents]+ Table of Contents

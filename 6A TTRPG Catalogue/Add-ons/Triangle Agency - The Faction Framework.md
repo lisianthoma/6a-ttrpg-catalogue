@@ -6,6 +6,7 @@ playercount:
 primary features:
 tags:
   - homebrew
+displayimage: 
 ---
 
 > [!contents]+ Table of Contents

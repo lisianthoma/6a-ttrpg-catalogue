@@ -7,6 +7,7 @@ setting:
 playercount:
 gm type: GM
 primary features:
+displayimage: Fellowship 2nd Edition.png
 ---
 > [!infobox]
 > ###### Fellowship 2nd Edition

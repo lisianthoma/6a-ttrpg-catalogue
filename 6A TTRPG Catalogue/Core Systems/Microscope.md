@@ -6,6 +6,7 @@ playercount: 2 - 5
 gm type: GMless
 primary features:
   - Worldbuilding
+displayimage: Microscope.png
 ---
 > [!infobox]
 > ###### Microscope

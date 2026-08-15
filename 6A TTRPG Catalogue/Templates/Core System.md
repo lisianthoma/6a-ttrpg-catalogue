@@ -4,7 +4,8 @@ aliases:
 setting: 
 playercount: 
 gm type: 
-primary features:
+primary features: 
+displayimage: 
 ---
 > [!infobox]
 > ###### Name

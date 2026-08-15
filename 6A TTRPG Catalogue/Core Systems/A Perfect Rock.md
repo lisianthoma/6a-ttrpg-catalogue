@@ -6,6 +6,7 @@ playercount: 1 - 4
 gm type: GMless
 primary features:
   - Worldbuilding
+displayimage: A Perfect Rock.png
 ---
 > [!infobox]
 > ###### A Perfect Rock

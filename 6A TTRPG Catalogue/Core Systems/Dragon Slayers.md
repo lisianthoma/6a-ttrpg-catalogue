@@ -5,6 +5,7 @@ setting:
 playercount: 2+
 gm type: GM
 primary features:
+displayimage: Dragon Slayers.png
 ---
 > [!infobox]
 > ###### Dragon Slayers

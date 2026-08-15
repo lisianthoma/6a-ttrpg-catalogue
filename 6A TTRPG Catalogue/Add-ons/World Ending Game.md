@@ -5,6 +5,7 @@ setting:
 playercount:
 primary features:
 tags:
+displayimage: 
 ---
 
 > [!contents]+ Table of Contents

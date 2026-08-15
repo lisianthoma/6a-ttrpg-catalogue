@@ -6,6 +6,7 @@ playercount: 1+
 gm type: GMless
 primary features:
   - Worldbuilding
+displayimage: Exquisite Biome.png
 ---
 > [!infobox]
 > ###### Exquisite Biome

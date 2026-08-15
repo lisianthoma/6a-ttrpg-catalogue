@@ -6,6 +6,7 @@ playercount: 3 - 4
 gm type: GMless
 primary features:
   - Worldbuilding
+displayimage: Rules of Law.png
 ---
 > [!infobox]
 > ###### Rules of Law
