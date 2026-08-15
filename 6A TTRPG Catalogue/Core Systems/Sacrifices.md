@@ -7,10 +7,10 @@ gm type: Both GM and GMless
 primary features:
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Sacrifices
+> ![[Sacrifices.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>A one-page TTRPG about giving up.</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

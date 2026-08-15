@@ -7,10 +7,10 @@ gm type: GM
 primary features:
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### This World Summons Too Many Heroes!! Definitive Edition
+> ![[TWSTMH.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>The ultimate version of the isekai fantasy TTRPG</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

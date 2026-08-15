@@ -7,10 +7,10 @@ gm type: GM
 primary features:
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Rosewood Abbey
+> ![[Rosewood Abbey.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>Monastic mysteries "Carved from Brindlewood" inspired by The Name of the Rose, Cadfael and more</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

@@ -7,10 +7,10 @@ gm type: GM
 primary features:
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Strays
+> ![[Strays.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>A game about the 1950s, changelings, and teens caught between worlds.</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

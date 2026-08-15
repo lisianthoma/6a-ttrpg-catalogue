@@ -7,10 +7,10 @@ gm type:
 primary features:
 ---
 > [!infobox]
-> ###### Name
+> ###### Trophy Dark
 > ![[Placeholder.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>A tabletop roleplaying game of dark forests, doomed treasure-hunters, and a world woven on a loom of rumor, history, and myth.</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

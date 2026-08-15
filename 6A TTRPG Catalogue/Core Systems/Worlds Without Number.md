@@ -7,7 +7,7 @@ gm type:
 primary features:
 ---
 > [!infobox]
-> ###### Name
+> ###### Worlds Without Number
 > ![[Placeholder.png|400]]
 > 
 > <center><b>Tagline if available</b></center> 

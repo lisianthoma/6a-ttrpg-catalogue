@@ -8,10 +8,10 @@ primary features:
   - Chess
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Chess 2
+> ![[Chess 2.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>The long-awaited sequel to the now-second-most important game of all time</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - The Booster Pack
+  - Stretch Goals
 setting:
 playercount:
 primary features:

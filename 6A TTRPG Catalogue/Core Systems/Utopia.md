@@ -7,8 +7,8 @@ gm type: GM
 primary features:
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Utopia <!-- this is the one by oridont -->
+> ![[Utopia.png|400]]
 > 
 > <center><b>Tagline if available</b></center> 
 > 

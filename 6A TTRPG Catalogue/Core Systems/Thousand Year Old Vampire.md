@@ -7,10 +7,10 @@ gm type: Solo
 primary features:
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Thousand Year Old Vampire
+> ![[Thousand Year Old Vampire.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>A beautiful, sad, solo RPG about the crush of time and vampires.</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

@@ -7,10 +7,10 @@ gm type: GM
 primary features:
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Triangle Agency
+> ![[Triangle Agency.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>Paranormal Investigation & Corporate Horror TTRPG</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

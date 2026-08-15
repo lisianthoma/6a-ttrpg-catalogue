@@ -7,10 +7,10 @@ gm type: GM
 primary features:
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Trespasser: Dark Fantasy Tactics
+> ![[Trespasser.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>A fantasy d20 game of base building, survival, and perilous tactical combat.</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |
