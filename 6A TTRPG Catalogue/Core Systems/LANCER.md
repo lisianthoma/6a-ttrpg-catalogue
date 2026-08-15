@@ -29,8 +29,11 @@ displayimage: LANCER.png
 
 > [!info]- Relevant Add-ons
 > [[LANCER - The Long Rim\|The Long Rim]]
-> [[LANCER - Enhanced Combat\|Enhanced Combat]]
 > [[LANCER - Field Guide to the Karrakin Trade Baronies\|Field Guide to the Karrakin Trade Baronies]]
+> [[LANCER - Operation Solstice Rain\|Operation Solstice Rain]]
+> [[LANCER - Dustgrave\|Dustgrave]]
+> 
+> [[LANCER - Enhanced Combat\|Enhanced Combat]]
 
 ## Reviews
 ##### Name here

@@ -31,6 +31,7 @@ displayimage:
 > [[Mothership - Prognosis\|Prognosis]]
 > [[Mothership - Alien Armory\|Alien Armory]]
 > [[Mothership - Unfathomable\|Unfathomable]]
+> [[Mothership - Decagone\|Decagone]]
 
 ## Reviews
 ##### Name here
