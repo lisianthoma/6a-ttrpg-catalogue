@@ -7,7 +7,7 @@ playercount:
 primary features:
 tags:
   - official
-displayimage: 
+displayimage: Inverse Fellowship.png
 ---
 
 > [!contents]+ Table of Contents

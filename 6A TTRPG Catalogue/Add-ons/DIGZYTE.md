@@ -6,7 +6,7 @@ playercount:
 primary features:
 tags:
   - homebrew
-displayimage: 
+displayimage: DIGZYTE.png
 ---
 
 > [!contents]+ Table of Contents

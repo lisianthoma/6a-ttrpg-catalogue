@@ -7,7 +7,7 @@ playercount:
 primary features:
 tags:
   - official
-displayimage: 
+displayimage: FIST Rations.png
 ---
 
 > [!contents]+ Table of Contents

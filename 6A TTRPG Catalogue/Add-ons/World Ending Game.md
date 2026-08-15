@@ -5,7 +5,7 @@ setting:
 playercount:
 primary features:
 tags:
-displayimage: 
+displayimage: World Ending Game.png
 ---
 
 > [!contents]+ Table of Contents

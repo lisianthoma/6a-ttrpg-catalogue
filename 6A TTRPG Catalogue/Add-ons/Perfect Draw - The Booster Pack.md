@@ -6,7 +6,7 @@ playercount:
 primary features:
 tags:
   - official
-displayimage: 
+displayimage: Perfect Draw Booster Pack.png
 ---
 
 > [!contents]+ Table of Contents

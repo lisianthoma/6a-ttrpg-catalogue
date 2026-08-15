@@ -6,7 +6,7 @@ playercount:
 primary features:
 tags:
   - homebrew
-displayimage: 
+displayimage: MB Cross Stitch.gif
 ---
 
 > [!contents]+ Table of Contents

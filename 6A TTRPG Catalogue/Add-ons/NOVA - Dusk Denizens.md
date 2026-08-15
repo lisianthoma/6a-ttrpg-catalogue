@@ -6,7 +6,7 @@ playercount:
 primary features:
 tags:
   - official
-displayimage: 
+displayimage: NOVA Dusk Denizens.png
 ---
 
 > [!contents]+ Table of Contents

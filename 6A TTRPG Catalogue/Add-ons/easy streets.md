@@ -6,7 +6,7 @@ playercount:
 primary features:
 tags:
   - official
-displayimage: 
+displayimage: easy streets.png
 ---
 
 > [!contents]+ Table of Contents

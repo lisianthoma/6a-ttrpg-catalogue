@@ -7,7 +7,7 @@ playercount:
 primary features:
 tags:
   - official
-displayimage: 
+displayimage: Lancer Karrakin Baronies.png
 ---
 
 > [!contents]+ Table of Contents

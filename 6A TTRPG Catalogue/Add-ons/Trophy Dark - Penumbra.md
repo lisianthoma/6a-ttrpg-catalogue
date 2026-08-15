@@ -6,7 +6,7 @@ playercount:
 primary features:
 tags:
   - homebrew
-displayimage: 
+displayimage: Trophy Dark Penumbra.png
 ---
 
 > [!contents]+ Table of Contents

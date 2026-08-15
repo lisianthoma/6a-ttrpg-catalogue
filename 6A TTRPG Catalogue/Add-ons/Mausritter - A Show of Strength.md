@@ -6,7 +6,7 @@ playercount:
 primary features:
 tags:
   - homebrew
-displayimage: 
+displayimage: Mausritter Show of Strength.png
 ---
 
 > [!contents]+ Table of Contents

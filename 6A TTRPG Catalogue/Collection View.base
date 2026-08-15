@@ -29,8 +29,11 @@ views:
       - tags
     sort: []
     image: note.displayimage
+    imageAspectRatio: 0.8
   - type: cards
     name: All
+    imageAspectRatio: 0.8
+    image: note.displayimage
   - type: cards
     name: Add-ons (Official Only)
     filters:
@@ -42,6 +45,7 @@ views:
       - tags
     sort: []
     image: note.displayimage
+    imageAspectRatio: 0.8
   - type: cards
     name: Add-ons (Homebrew Only)
     filters:
@@ -53,3 +57,4 @@ views:
       - tags
     sort: []
     image: note.displayimage
+    imageAspectRatio: 0.8
