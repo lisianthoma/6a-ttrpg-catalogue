@@ -9,7 +9,7 @@ displayimage: CAIN.png
 ---
 > [!infobox]
 > ###### CAIN
-> ![[CAIN.png|400]]
+> ![[Images/Core System Images/CAIN.png|400]]
 > 
 > <center><b>Psychic death soldiers in a quest to purge humanity's stain</b></center> 
 > 
@@ -31,6 +31,18 @@ displayimage: CAIN.png
 > [[GAMES FOR FREAKS 2\|GFF2]]
 > [[GAMES FOR FREAKS 3\|GFF3]]
 > [[GAMES FOR FREAKS 4\|GFF4]]
+> 
+> [[CAIN - The Harpocrates Dossier\|The Harpocrates Dossier]]
+> [[CAIN - Glory Unto Them\|Glory Unto Them]]
+> [[CAIN - Book of Leviathan\|Book of Leviathan]]
+> [[CAIN - THE ODYSSEUS PROTOCOL\|THE ODYSSEUS PROTOCOL]]
+> [[CAIN - Marching Ever Onward\|Marching Ever Onward]]
+> [[CAIN - LEBA Association\|LEBA Association]]
+> [[CAIN - The Book of Job\|The Book of Job]]
+> [[CAIN - The Ishmael Protocol\|The Ishmael Protocol]]
+> [[CAIN - ARCHIVE Field Guide to Fighting an Ever Increasing Number of Sins\|ARCHIVE Field Guide to Fighting an Ever Increasing Number of Sins]]
+> [[CAIN - These Unwashed Masses\|These Unwashed Masses]]
+> [[CAIN - Your Hand Is Not Your Hand\|Your Hand Is Not Your Hand]]
 
 ## Reviews
 ##### Name here
