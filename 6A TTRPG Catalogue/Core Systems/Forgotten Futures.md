@@ -9,7 +9,7 @@ displayimage:
 ---
 > [!infobox]
 > ###### Forgotten Futures
-> ![[Placeholder.png|400]]
+> ![[Forgotten Futures.png|400]]
 > 
 > <center><b>The Scientific Romance Role Playing Game</b></center> 
 > 
