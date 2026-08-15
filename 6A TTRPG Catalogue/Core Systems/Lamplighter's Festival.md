@@ -5,12 +5,13 @@ setting:
 playercount: 1+
 gm type: GMless
 primary features:
+  - Worldbuilding
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Lamplighter's Festival
+> ![[Lamplighter's Festival.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>A map-drawing/worldbuilding game about how rituals and celebrations reflect the world around us</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

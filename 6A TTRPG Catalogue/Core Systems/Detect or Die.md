@@ -7,10 +7,10 @@ gm type: GM
 primary features:
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### DETECT OR DIE
+> ![[DETECT OR DIE.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>A tabletop RPG of neo-noir empiricism, unstable detectives, and total ego death & resurrection.</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

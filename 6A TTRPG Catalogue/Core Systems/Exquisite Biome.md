@@ -8,10 +8,10 @@ primary features:
   - Worldbuilding
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Exquisite Biome
+> ![[Exquisite Biome.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>A game of speculative biology</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

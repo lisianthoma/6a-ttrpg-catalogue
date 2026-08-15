@@ -7,8 +7,11 @@ gm type: GM
 primary features:
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Dragons & Travellers Tales
+> ![[Dragons and Travellers Tales.png|400]]
+> 
+> <center><b>A worldbuilding fantasy tabletop role-playing game for two</b></center> 
+> 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |
 > | ---- | ---- |

@@ -3,14 +3,14 @@ aliases:
   - Icon
 setting:
 playercount:
-gm type: 
+gm type: GM
 primary features:
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### ICON playtest
+> ![[ICON.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>Mythic fantasy in a vast green world</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

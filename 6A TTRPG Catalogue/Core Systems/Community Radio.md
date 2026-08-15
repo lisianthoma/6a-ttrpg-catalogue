@@ -7,10 +7,10 @@ gm type: GM
 primary features:
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Community Radio, Second Edition
+> ![[Community Radio.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>An improv TTRPG about a strange, strange place and the community radio station that supports it.</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

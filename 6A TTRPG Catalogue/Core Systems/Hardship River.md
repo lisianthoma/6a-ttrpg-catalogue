@@ -7,10 +7,10 @@ gm type: GMless
 primary features:
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Hardship River
+> ![[Hardship River.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>A one-page, one-move #pbta #ttrpg without an MC!</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

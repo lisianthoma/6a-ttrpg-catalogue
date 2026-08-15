@@ -8,10 +8,10 @@ gm type: GM
 primary features:
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### The Island of Dr. Moreau
+> ![[IoDM.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>Horror, romance, and transformation on a mad scientist's island</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

@@ -7,10 +7,10 @@ gm type: GM
 primary features:
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### DAISY CHAINSAW
+> ![[Daisy Chainsaw.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>Fight monsters through the power of friendship and extreme violence.</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

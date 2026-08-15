@@ -7,10 +7,10 @@ gm type:
 primary features:
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### DUSK
+> ![[DUSK.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>Your journey into the Dusk starts here.</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

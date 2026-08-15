@@ -9,10 +9,10 @@ gm type: GM
 primary features:
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Fellowship 2nd Edition
+> ![[Fellowship 2nd Edition.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>Work together to build a world you must then save from evil.</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

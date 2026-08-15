@@ -7,10 +7,10 @@ gm type: GMless
 primary features:
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Four Seasons
+> ![[Four Seasons.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>A worldbuilding game about a space colony, a legendary cycle, and making up a guy to get really mad at.</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

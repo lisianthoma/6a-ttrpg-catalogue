@@ -8,10 +8,10 @@ primary features:
   - Skirmish
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Flak Arcana
+> ![[Flak Arcana.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>Skirmish battles in a world of Machines, Magic, and Fantasy Mercenaries.</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

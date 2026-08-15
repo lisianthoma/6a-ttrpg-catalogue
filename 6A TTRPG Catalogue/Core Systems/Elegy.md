@@ -7,10 +7,10 @@ gm type: Solo
 primary features:
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Elegy
+> ![[Elegy.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>Solo vampire RPG based on Ironsworn</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

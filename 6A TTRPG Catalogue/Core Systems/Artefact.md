@@ -7,10 +7,10 @@ gm type: Solo
 primary features:
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Artefact
+> ![[Artefact.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>A game of legendary items & transient heroes.</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

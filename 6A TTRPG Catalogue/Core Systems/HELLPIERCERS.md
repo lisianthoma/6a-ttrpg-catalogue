@@ -8,10 +8,10 @@ primary features:
   - Tactics
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### HELLPIERCERS
+> ![[HELLPIERCERS.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>Tactical Harrowing Action.</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

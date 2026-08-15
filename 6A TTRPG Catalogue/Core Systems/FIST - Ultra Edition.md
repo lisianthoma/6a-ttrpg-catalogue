@@ -9,10 +9,10 @@ gm type: GM
 primary features:
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### FIST: Ultra Edition
+> ![[FIST Ultra.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>A paranormal mercenary roleplaying game</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

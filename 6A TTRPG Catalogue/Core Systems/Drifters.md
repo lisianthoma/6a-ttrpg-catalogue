@@ -8,9 +8,9 @@ primary features:
 ---
 > [!infobox]
 > ###### Name
-> ![[Placeholder.png|400]]
+> ![[Drifters.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>Cursed gunslingers in a voidtorn Slayers hack.</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

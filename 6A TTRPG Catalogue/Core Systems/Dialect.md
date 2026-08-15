@@ -7,10 +7,10 @@ gm type: GMless
 primary features:
 ---
 > [!infobox]
-> ###### Name
+> ###### Dialect
 > ![[Placeholder.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>A Game About Language and How it Dies</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

@@ -7,10 +7,10 @@ gm type:
 primary features:
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### MAGNAGOTHICA: MALEGHAST
+> ![[MALEGHAST.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>NECROMANCER TACTICS</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |
