@@ -13,6 +13,8 @@ views:
       - file.name
       - gm type
       - playercount
+      - setting
+      - primary features
     sort: []
   - type: cards
     name: Add-ons
