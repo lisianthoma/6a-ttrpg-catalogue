@@ -6,7 +6,7 @@ playercount:
 primary features:
 tags:
   - homebrew
-displayimage: 
+displayimage: Mothership Alien Armory.png
 ---
 
 > [!contents]+ Table of Contents

@@ -6,7 +6,7 @@ playercount:
 primary features:
 tags:
   - homebrew
-displayimage: 
+displayimage: Mausritter Mice of P.png
 ---
 
 > [!contents]+ Table of Contents

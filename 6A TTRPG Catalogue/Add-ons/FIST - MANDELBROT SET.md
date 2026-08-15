@@ -1,13 +1,13 @@
 ---
 aliases:
-  - MANDLEBROT SET
-  - Mandlebrot Set
+  - MANDELBROT SET
+  - Mandelbrot Set
 setting:
 playercount:
 primary features:
 tags:
   - official
-displayimage: 
+displayimage: FIST MANDELBROT.png
 ---
 
 > [!contents]+ Table of Contents

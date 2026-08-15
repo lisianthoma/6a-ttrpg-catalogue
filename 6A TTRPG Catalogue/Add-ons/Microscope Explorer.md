@@ -6,7 +6,7 @@ playercount:
 primary features:
 tags:
   - official
-displayimage: 
+displayimage: Microscope Explorer.png
 ---
 
 > [!contents]+ Table of Contents

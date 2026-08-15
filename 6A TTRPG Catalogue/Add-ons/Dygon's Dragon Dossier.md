@@ -6,7 +6,7 @@ playercount:
 primary features:
 tags:
   - homebrew
-displayimage: 
+displayimage: Dygon's Dragons.png
 ---
 
 > [!contents]+ Table of Contents
