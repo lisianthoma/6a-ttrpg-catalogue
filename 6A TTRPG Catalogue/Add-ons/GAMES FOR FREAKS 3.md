@@ -6,7 +6,7 @@ playercount:
 primary features:
 tags:
   - official
-displayimage: 
+displayimage: GFF3.png
 ---
 
 > [!contents]+ Table of Contents

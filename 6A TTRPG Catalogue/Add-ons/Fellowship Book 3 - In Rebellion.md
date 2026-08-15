@@ -7,7 +7,7 @@ playercount:
 primary features:
 tags:
   - official
-displayimage: 
+displayimage: In Rebellion.png
 ---
 
 > [!contents]+ Table of Contents

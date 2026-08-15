@@ -6,7 +6,7 @@ playercount:
 primary features:
 tags:
   - official
-displayimage: 
+displayimage: IoDM Aeaea.png
 ---
 
 > [!contents]+ Table of Contents

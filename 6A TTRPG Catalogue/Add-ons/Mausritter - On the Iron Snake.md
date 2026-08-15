@@ -6,7 +6,7 @@ playercount:
 primary features:
 tags:
   - homebrew
-displayimage: 
+displayimage: Mausritter Iron Snake.png
 ---
 
 > [!contents]+ Table of Contents

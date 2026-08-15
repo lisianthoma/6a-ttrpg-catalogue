@@ -6,7 +6,7 @@ playercount:
 primary features:
 tags:
   - official
-displayimage: 
+displayimage: Slayers Almanac.png
 ---
 
 > [!contents]+ Table of Contents

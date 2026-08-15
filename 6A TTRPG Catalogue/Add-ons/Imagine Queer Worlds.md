@@ -6,7 +6,7 @@ playercount: 1+
 primary features:
   - Worldbuilding
 tags:
-displayimage: 
+displayimage: Imagine Queer Worlds.png
 ---
 
 > [!contents]+ Table of Contents

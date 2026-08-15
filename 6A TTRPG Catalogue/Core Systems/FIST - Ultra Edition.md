@@ -29,7 +29,7 @@ displayimage: FIST Ultra.png
 > ```
 
 > [!info]- Relevant Add-ons
-> [[FIST - MANDLEBROT SET\|MANDLEBROT SET]]
+> [[FIST - MANDELBROT SET\|MANDLEBROT SET]]
 > [[FIST - RATIONS Collection\|RATIONS Collection]]
 
 ## Reviews

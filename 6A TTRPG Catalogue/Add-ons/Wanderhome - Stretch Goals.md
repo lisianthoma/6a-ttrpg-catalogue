@@ -6,7 +6,7 @@ playercount:
 primary features:
 tags:
   - official
-displayimage: 
+displayimage: Wanderhome Stretch Goals.png
 ---
 
 > [!contents]+ Table of Contents

@@ -6,7 +6,7 @@ playercount:
 primary features:
 tags:
   - homebrew
-displayimage: 
+displayimage: Mausritter Mushroom Grotto.png
 ---
 
 > [!contents]+ Table of Contents

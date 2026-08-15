@@ -5,7 +5,7 @@ setting:
 playercount:
 primary features:
 tags:
-displayimage: 
+displayimage: Volume of Villains.png
 ---
 
 > [!contents]+ Table of Contents

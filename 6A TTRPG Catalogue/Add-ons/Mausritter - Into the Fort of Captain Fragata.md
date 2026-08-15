@@ -6,7 +6,7 @@ playercount:
 primary features:
 tags:
   - homebrew
-displayimage: 
+displayimage: Mausritter Fort of Fragata.png
 ---
 
 > [!contents]+ Table of Contents

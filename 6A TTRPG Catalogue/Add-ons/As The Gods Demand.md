@@ -6,9 +6,8 @@ playercount:
 primary features:
 tags:
   - homebrew
-displayimage: 
+displayimage: As The Gods Demand.png
 ---
-
 > [!contents]+ Table of Contents
 > ```table-of-contents
 > ```
