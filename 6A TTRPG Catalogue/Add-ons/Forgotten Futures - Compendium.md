@@ -5,7 +5,7 @@ setting: Victorian
 playercount: 2+
 primary features:
 tags: official
-displayimage: 
+displayimage: FF Compendium.png
 ---
 
 > [!contents]+ Table of Contents
