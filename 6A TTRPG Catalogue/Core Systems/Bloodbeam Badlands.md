@@ -5,6 +5,7 @@ setting:
 playercount: 2+
 gm type: GM
 primary features:
+displayimage: Bloodbeam Badlands.png
 ---
 > [!infobox]
 > ###### Bloodbeam Badlands

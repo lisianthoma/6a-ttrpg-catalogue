@@ -6,6 +6,7 @@ setting: Fantasy
 playercount: 3+
 gm type: GM
 primary features: 
+displayimage: 
 ---
 > [!infobox]
 > ###### Dungeons & Dragons

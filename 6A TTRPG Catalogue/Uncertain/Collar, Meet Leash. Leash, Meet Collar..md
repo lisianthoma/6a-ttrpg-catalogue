@@ -5,6 +5,7 @@ setting:
 playercount: 
 gm type: 
 primary features:
+displayimage: CMLLMC.png
 ---
 > [!infobox]
 > ###### Name

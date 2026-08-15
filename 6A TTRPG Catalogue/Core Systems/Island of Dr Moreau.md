@@ -6,6 +6,7 @@ setting:
 playercount: 3+
 gm type: GM
 primary features:
+displayimage: IoDM.png
 ---
 > [!infobox]
 > ###### The Island of Dr. Moreau

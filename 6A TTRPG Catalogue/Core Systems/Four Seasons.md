@@ -5,6 +5,7 @@ setting:
 playercount: 2+
 gm type: GMless
 primary features:
+displayimage: Four Seasons.png
 ---
 > [!infobox]
 > ###### Four Seasons

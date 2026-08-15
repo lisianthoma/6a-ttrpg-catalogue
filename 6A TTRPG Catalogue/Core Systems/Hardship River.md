@@ -5,6 +5,7 @@ setting:
 playercount: 3 - 5
 gm type: GMless
 primary features:
+displayimage: Hardship River.png
 ---
 > [!infobox]
 > ###### Hardship River

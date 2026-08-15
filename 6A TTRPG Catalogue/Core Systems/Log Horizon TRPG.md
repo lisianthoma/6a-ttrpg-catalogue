@@ -5,6 +5,7 @@ setting: Sci-Fi
 playercount: 2+
 gm type: GM
 primary features:
+displayimage: 
 ---
 > [!infobox]
 > ###### Log Horizon TRPG

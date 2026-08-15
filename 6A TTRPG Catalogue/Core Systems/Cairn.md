@@ -5,12 +5,13 @@ setting:
 playercount: 2+
 gm type: GM
 primary features:
+displayimage: Cairn.png
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Cairn - First Edition
+> ![[Cairn.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>An adventure game about characters exploring a dark, mysterious Wood.</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

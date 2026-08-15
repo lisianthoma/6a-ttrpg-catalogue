@@ -5,6 +5,7 @@ setting:
 playercount: 3 - 6 / 4 - 7
 gm type: Both GM and GMless
 primary features:
+displayimage: BALIKBAYAN.png
 ---
 > [!infobox]
 > ###### BALIKBAYAN: Returning Home

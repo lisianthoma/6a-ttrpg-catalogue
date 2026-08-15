@@ -5,12 +5,13 @@ setting:
 playercount: "1"
 gm type: Solo
 primary features:
+displayimage: Soul Cemetery.png
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Soul Cemetery
+> ![[Soul Cemetery.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>A solo narrative delve into a lost survival horror classic~</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

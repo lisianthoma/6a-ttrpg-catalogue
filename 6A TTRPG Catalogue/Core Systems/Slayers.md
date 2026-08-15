@@ -5,12 +5,13 @@ setting:
 playercount: 2+
 gm type: GM
 primary features:
+displayimage: Slayers.png
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Slayers
+> ![[Slayers.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>Monster hunting in a cursed city.</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

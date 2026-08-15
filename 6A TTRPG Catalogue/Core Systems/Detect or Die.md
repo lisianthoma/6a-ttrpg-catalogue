@@ -5,6 +5,7 @@ setting:
 playercount: 4+
 gm type: GM
 primary features:
+displayimage: DETECT OR DIE.png
 ---
 > [!infobox]
 > ###### DETECT OR DIE

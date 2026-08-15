@@ -5,12 +5,13 @@ setting:
 playercount: 2 - 4
 gm type: GMless
 primary features:
+displayimage: Revolt!.png
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Revolt!
+> ![[Revolt!.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>Build up a realm and bring down monarchy as 2-4 rebellious citizens or one gallant knight.</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

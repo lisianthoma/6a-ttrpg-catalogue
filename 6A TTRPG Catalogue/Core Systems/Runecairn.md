@@ -5,12 +5,13 @@ setting:
 playercount: "2"
 gm type: GM
 primary features:
+displayimage: Runecairn.png
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Runecairn: Core Roles
+> ![[Runecairn.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>Soulslike Norse fantasy tabletop role-playing game</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

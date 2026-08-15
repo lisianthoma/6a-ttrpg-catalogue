@@ -5,12 +5,13 @@ setting:
 playercount: "1"
 gm type: Solo
 primary features:
+displayimage: MHITFOG.png
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### My Hands In The Fates Of Gods
+> ![[MHITFOG.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>In the final moments of your grand adventure, what choices will you make to save the world?</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

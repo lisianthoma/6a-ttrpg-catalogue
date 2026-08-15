@@ -6,6 +6,7 @@ playercount: 1 - 2
 gm type: GMless
 primary features:
   - Baseball
+displayimage: 
 ---
 > [!infobox]
 > ###### Deadball

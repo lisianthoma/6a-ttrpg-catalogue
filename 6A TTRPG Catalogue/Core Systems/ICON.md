@@ -5,6 +5,7 @@ setting:
 playercount:
 gm type: GM
 primary features:
+displayimage: ICON.png
 ---
 > [!infobox]
 > ###### ICON playtest

@@ -5,6 +5,7 @@ setting:
 playercount: 2 - 5 
 gm type: GM
 primary features:
+displayimage: Lichoma.png
 ---
 > [!infobox]
 > ###### Lichoma

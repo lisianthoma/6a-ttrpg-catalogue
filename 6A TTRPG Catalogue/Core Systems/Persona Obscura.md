@@ -5,12 +5,13 @@ setting:
 playercount: "1"
 gm type: Solo
 primary features:
+displayimage: Persona Obscura.png
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Persona Obscura
+> ![[Persona Obscura.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>With no memory of who you are, music personifies intuition in this Sentinel-inspired TTRPG</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

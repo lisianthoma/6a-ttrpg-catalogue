@@ -16,6 +16,9 @@ views:
       - setting
       - primary features
     sort: []
+    image: note.displayimage
+    cardSize: 200
+    imageAspectRatio: 0.8
   - type: cards
     name: Add-ons
     filters:
@@ -23,6 +26,30 @@ views:
         - file.inFolder("Add-ons")
     order:
       - file.name
+      - tags
     sort: []
+    image: note.displayimage
   - type: cards
     name: All
+  - type: cards
+    name: Add-ons (Official Only)
+    filters:
+      and:
+        - file.inFolder("Add-ons")
+        - file.hasTag("official")
+    order:
+      - file.name
+      - tags
+    sort: []
+    image: note.displayimage
+  - type: cards
+    name: Add-ons (Homebrew Only)
+    filters:
+      and:
+        - file.inFolder("Add-ons")
+        - file.hasTag("homebrew")
+    order:
+      - file.name
+      - tags
+    sort: []
+    image: note.displayimage

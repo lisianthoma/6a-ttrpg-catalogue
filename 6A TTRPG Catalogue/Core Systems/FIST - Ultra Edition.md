@@ -7,6 +7,7 @@ setting:
 playercount: 3 - 7
 gm type: GM
 primary features:
+displayimage: FIST Ultra.png
 ---
 > [!infobox]
 > ###### FIST: Ultra Edition

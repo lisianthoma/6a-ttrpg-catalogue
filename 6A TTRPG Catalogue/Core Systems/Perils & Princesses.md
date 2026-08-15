@@ -5,12 +5,13 @@ setting:
 playercount: 3+
 gm type: GM
 primary features:
+displayimage: Perils & Princesses.png
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Perils & Princesses
+> ![[Perils & Princesses.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>A Gritty and Pretty Fairy Tale Adventure Game</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

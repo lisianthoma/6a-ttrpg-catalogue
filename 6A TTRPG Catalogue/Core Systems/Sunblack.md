@@ -5,12 +5,13 @@ setting:
 playercount: 3+
 gm type: GM
 primary features:
+displayimage: SUNBLACK.png
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### SUNBLACK
+> ![[SUNBLACK.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>Psychic mutants fight to keep their fellow freaks free.</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

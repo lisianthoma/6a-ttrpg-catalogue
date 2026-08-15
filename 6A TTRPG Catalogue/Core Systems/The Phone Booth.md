@@ -5,12 +5,13 @@ setting:
 playercount: 3 - 5
 gm type: GM
 primary features:
+displayimage: The Phone Booth.png
 ---
 > [!infobox]
 > ###### Name
-> ![[Placeholder.png|400]]
+> ![[The Phone Booth.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>Travel through time and space, save everyone and everything, and maybe learn to play your instruments while doing it.</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

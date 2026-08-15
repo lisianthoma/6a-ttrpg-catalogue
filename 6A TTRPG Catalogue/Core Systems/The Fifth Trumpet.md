@@ -5,9 +5,10 @@ setting:
 playercount: 2+
 gm type: GM
 primary features:
+displayimage: 
 ---
 > [!infobox]
-> ###### Name
+> ###### The Fifth Trumpet
 > ![[Placeholder.png|400]]
 > 
 > <center><b>Tagline if available</b></center> 

@@ -5,12 +5,13 @@ setting:
 playercount: "1"
 gm type: Solo
 primary features:
+displayimage: Thousand Year Old Vampire.png
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Thousand Year Old Vampire
+> ![[Thousand Year Old Vampire.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>A beautiful, sad, solo RPG about the crush of time and vampires.</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

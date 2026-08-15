@@ -5,6 +5,7 @@ setting:
 playercount: 2+
 gm type: GMless
 primary features:
+displayimage: A Land Once Magic.png
 ---
 > [!infobox]
 > ###### A Land Once Magic

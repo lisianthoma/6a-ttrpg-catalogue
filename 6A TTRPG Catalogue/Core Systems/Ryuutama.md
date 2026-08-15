@@ -5,12 +5,13 @@ setting:
 playercount: 3+
 gm type: GM
 primary features:
+displayimage: Ryuutama.png
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Ryuutama - Natural Fantasy Roleplay
+> ![[Ryuutama.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>A Heartwarming Tabletop RPG of Travel, Wonder and Friendship</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

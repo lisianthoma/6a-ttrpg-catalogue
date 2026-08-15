@@ -5,9 +5,10 @@ setting:
 playercount:
 gm type: 
 primary features:
+displayimage: 
 ---
 > [!infobox]
-> ###### Name
+> ###### Stars Without Number
 > ![[Placeholder.png|400]]
 > 
 > <center><b>Tagline if available</b></center> 

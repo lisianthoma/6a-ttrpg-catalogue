@@ -5,12 +5,13 @@ setting:
 playercount: 2 - 6
 gm type: GMless
 primary features:
+displayimage: isdyssm.png
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### i'm sorry did you say street magic
+> ![[isdyssm.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>we breathe life into this city together</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

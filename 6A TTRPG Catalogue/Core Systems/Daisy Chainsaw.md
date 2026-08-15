@@ -5,6 +5,7 @@ setting:
 playercount: 3 - 7
 gm type: GM
 primary features:
+displayimage: Daisy Chainsaw.png
 ---
 > [!infobox]
 > ###### DAISY CHAINSAW

@@ -5,6 +5,7 @@ setting:
 playercount: 3 - 10
 gm type: GM
 primary features:
+displayimage: Community Radio.png
 ---
 > [!infobox]
 > ###### Community Radio, Second Edition

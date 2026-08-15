@@ -5,12 +5,13 @@ setting:
 playercount: "1"
 gm type: Solo
 primary features:
+displayimage: Rewwixta.png
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Rewwixta
+> ![[Rewwixta.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>A solo storygen TTRPG about a local rebellion against colonial powers. Based on a maltese folk game</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

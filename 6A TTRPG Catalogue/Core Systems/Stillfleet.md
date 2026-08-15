@@ -5,12 +5,13 @@ setting:
 playercount: 2+
 gm type: GM
 primary features:
+displayimage: Stillfleet.png
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Stillfleet Core Rulebook ☉ CRB001
+> ![[Stillfleet.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>The political sci-fi TTRPG: unique, flexible rules + an unforgettable game universe</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

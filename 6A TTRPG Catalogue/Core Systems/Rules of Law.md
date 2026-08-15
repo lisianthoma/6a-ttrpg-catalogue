@@ -6,12 +6,13 @@ playercount: 3 - 4
 gm type: GMless
 primary features:
   - Worldbuilding
+displayimage: Rules of Law.png
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Rules of Law
+> ![[Rules of Law.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>Laws tell you what a society is like. A short fast world-building game.</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

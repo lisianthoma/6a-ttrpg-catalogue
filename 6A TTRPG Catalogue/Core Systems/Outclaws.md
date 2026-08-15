@@ -5,12 +5,13 @@ setting:
 playercount: 2 - 6
 gm type: GM
 primary features:
+displayimage: OUTCLAWS.png
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### OUTCLAWS
+> ![[OUTCLAWS.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>One-shot Fantasy Heists!</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

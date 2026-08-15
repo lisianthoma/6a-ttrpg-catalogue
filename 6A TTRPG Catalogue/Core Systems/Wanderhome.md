@@ -5,12 +5,13 @@ setting:
 playercount: 3+
 gm type: GMless
 primary features:
+displayimage: Wanderhome.png
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Wanderhome (Full PDF)
+> ![[Wanderhome.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>A pastoral fantasy tabletop RPG about traveling animal-folk and the way they change with the seasons.</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |
@@ -26,7 +27,7 @@ primary features:
 > ```
 
 > [!info]- Relevant Add-ons
-> link expansions somewhere in the page
+> [[Wanderhome - Stretch Goals\|Stretch Goals]]
 
 ## Reviews
 ##### Name here

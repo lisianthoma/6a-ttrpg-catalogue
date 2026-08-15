@@ -5,12 +5,13 @@ setting:
 playercount: "1"
 gm type: Solo
 primary features:
+displayimage: The Crushing Dark.png
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### The Crushing Dark
+> ![[The Crushing Dark.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>Descend to the darkest recesses of the ocean... and your own mind. A solo journaling RPG.</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

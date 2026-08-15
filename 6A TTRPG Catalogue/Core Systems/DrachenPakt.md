@@ -5,6 +5,7 @@ setting:
 playercount: 1 - 3
 gm type: GMless
 primary features:
+displayimage: DrachenPakt.gif
 ---
 > [!infobox]
 > ###### DrachenPakt

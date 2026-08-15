@@ -8,10 +8,11 @@ gm type: GM
 primary features:
   - Combat
   - Magic
+displayimage: Dishonored.png
 ---
 > [!infobox]
 > ###### Dishonored
-> ![[Placeholder.png|400]]
+> ![[Dishonored.png|400]]
 > 
 > <center><b>Tagline if available</b></center> 
 > 

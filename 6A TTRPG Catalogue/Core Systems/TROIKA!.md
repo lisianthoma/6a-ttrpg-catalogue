@@ -5,12 +5,13 @@ setting:
 playercount: 2+
 gm type: GM
 primary features:
+displayimage: Troika!.png
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Troika! Numinous Edition
+> ![[Troika!.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>The Other world's favourite fantasy RPG</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

@@ -6,12 +6,13 @@ playercount: 3+
 gm type: GMless
 primary features:
   - Worldbuilding
+displayimage: The Hall.png
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### The Hall
+> ![[The Hall.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>A worldbuilding game about journeys</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

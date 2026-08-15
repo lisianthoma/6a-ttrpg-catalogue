@@ -5,6 +5,7 @@ setting:
 playercount: 3
 gm type: GMless
 primary features:
+displayimage: Feathers.png
 ---
 > [!infobox]
 > ###### Feathers

@@ -5,12 +5,13 @@ setting:
 playercount:
 gm type: 
 primary features:
+displayimage: LUNA.png
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### LUNA
+> ![[LUNA.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>The sun is dead. Long live the moon.</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

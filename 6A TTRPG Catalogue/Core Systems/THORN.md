@@ -5,12 +5,13 @@ setting:
 playercount: 3+
 gm type: GM
 primary features:
+displayimage: THORN.png
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### THORN
+> ![[THORN.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>Diceless and healthless fantasy TTRPG</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

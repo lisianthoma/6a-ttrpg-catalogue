@@ -5,6 +5,7 @@ setting:
 playercount:
 gm type: 
 primary features:
+displayimage: MALEGHAST.png
 ---
 > [!infobox]
 > ###### MAGNAGOTHICA: MALEGHAST

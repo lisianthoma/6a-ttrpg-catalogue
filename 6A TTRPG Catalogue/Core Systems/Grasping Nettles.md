@@ -6,6 +6,7 @@ playercount: 1 - 6
 gm type: GMless
 primary features:
   - Worldbuilding
+displayimage: Grasping Nettles.png
 ---
 > [!infobox]
 > ###### Grasping Nettles

@@ -5,12 +5,13 @@ setting:
 playercount: 3+
 gm type: GM
 primary features:
+displayimage: Realis.png
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Realis (Ashcan Edition)
+> ![[Realis.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>A TTRPG of moon-hopping adventure, arcane discovery, fatal conflight, & meditations on the changing nature of the self.</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

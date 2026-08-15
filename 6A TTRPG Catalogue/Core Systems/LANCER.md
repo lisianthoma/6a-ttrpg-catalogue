@@ -6,6 +6,7 @@ playercount:
 gm type:
 primary features:
   - Mecha
+displayimage: LANCER.png
 ---
 > [!infobox]
 > ###### LANCER Core Book

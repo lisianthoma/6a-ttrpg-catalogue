@@ -5,10 +5,11 @@ setting:
 playercount: 2+
 gm type: GM
 primary features:
+displayimage: Utopia.png
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Utopia <!-- this is the one by oridont -->
+> ![[Utopia.png|400]]
 > 
 > <center><b>Tagline if available</b></center> 
 > 
