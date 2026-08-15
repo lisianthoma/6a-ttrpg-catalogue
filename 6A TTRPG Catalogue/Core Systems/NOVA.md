@@ -7,10 +7,10 @@ gm type:
 primary features:
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### NOVA
+> ![[NOVA.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>Pilot mechs in a sunless world, and bring a new dawn.</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

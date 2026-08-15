@@ -7,10 +7,10 @@ gm type: GM
 primary features:
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Perfect Draw!
+> ![[Perfect Draw!.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>A Card Game Anime Roleplaying Game</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |
@@ -26,7 +26,7 @@ primary features:
 > ```
 
 > [!info]- Relevant Add-ons
-> link expansions somewhere in the page
+> [[Perfect Draw - The Booster Pack\|The Booster Pack]]
 
 ## Reviews
 ##### Name here

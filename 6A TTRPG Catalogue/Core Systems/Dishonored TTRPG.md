@@ -11,7 +11,7 @@ primary features:
 ---
 > [!infobox]
 > ###### Dishonored
-> ![[Placeholder.png|400]]
+> ![[Dishonored.png|400]]
 > 
 > <center><b>Tagline if available</b></center> 
 > 

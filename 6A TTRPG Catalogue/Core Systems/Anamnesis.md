@@ -7,10 +7,10 @@ gm type: Solo
 primary features:
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Anamnesis
+> ![[Anamnesis.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>A solo tarot game about discovering yourself after memory loss</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

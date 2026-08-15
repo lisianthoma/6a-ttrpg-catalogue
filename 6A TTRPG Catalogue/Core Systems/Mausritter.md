@@ -8,9 +8,9 @@ primary features:
 ---
 > [!infobox]
 > ###### Name
-> ![[Placeholder.png|400]]
+> ![[Mausritter.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>Swords-and-whiskers roleplaying</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

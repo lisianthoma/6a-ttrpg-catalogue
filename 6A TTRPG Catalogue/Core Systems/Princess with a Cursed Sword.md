@@ -7,10 +7,10 @@ gm type: Solo
 primary features:
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Princess with a Cursed Sword
+> ![[Princess with a Cursed Sword.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>A solo journaling game</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |

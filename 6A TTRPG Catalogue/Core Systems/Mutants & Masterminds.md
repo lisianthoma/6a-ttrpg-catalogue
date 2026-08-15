@@ -8,7 +8,7 @@ gm type: GM
 primary features:
 ---
 > [!infobox]
-> ###### Name
+> ###### Mutants & Masterminds
 > ![[Placeholder.png|400]]
 > 
 > <center><b>Tagline if available</b></center> 

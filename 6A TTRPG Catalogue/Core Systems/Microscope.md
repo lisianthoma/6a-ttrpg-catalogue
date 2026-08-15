@@ -8,10 +8,10 @@ primary features:
   - Worldbuilding
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### Microscope
+> ![[Microscope.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>Fractal Game of Epic Histories</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |
@@ -27,7 +27,7 @@ primary features:
 > ```
 
 > [!info]- Relevant Add-ons
-> link expansions somewhere in the page
+> [[Microscope Explorer\|Explorer]]
 
 ## Reviews
 ##### Name here

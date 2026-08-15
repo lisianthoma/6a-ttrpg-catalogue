@@ -7,10 +7,10 @@ gm type:
 primary features:
 ---
 > [!infobox]
-> ###### Name
-> ![[Placeholder.png|400]]
+> ###### NEST
+> ![[NEST.png|400]]
 > 
-> <center><b>Tagline if available</b></center> 
+> <center><b>Avian alien assassins hunt fire focused fanatics. A NOVAverse TTRPG.</b></center> 
 > 
 > ###### Info
 > | <center>:LiMoonStar:</center> | <center>:LiStars:</center> |
