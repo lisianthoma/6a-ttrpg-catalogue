@@ -65,8 +65,12 @@ displayimage: Images/Core System Images/CAIN.png
 > [[CAIN - Operation Weeping Mountain\|Operation Weeping Mountain]]
 
 ## Ran in Sessions / Campaigns
-##### Session / Campaign name
-Featured players? Maybe? Reformat later
+##### Cain Cinematic Project / West Marches Project
+Can someone figure out how to format all the participants/admins for this part
+
+##### ONLY YOU SEE THE SUN / Rogue Exorcist Campaign
+ADMIN - lis
+PLAYERS - zwei, neon, katie, gryph
 
 ## Reviews
 ##### Name here
