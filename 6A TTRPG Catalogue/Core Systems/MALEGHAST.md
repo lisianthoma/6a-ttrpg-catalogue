@@ -31,8 +31,10 @@ displayimage: MALEGHAST.png
 > [[GAMES FOR FREAKS 2\|GFF2]]
 > [[GAMES FOR FREAKS 3\|GFF3]]
 > [[GAMES FOR FREAKS 4\|GFF4]]
-> 
-> 
+
+## Ran in Sessions / Campaigns
+##### Session / Campaign name
+Featured players? Maybe? Reformat later
 
 ## Reviews
 ##### Name here

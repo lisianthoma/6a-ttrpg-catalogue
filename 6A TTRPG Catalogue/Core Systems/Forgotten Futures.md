@@ -40,6 +40,10 @@ displayimage:
 > [[Forgotten Futures - Planets of Peril\|Worldbook 11: Planets of Peril]]
 > [[Forgotten Futures - Compendium\|The Forgotten Futures Compendium]]
 
+## Ran in Sessions / Campaigns
+##### Session / Campaign name
+Featured players? Maybe? Reformat later
+
 ## Reviews
 ##### Name here
 Review text

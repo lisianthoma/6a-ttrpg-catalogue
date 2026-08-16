@@ -33,6 +33,10 @@ displayimage:
 > [[Mothership - Unfathomable\|Unfathomable]]
 > [[Mothership - Decagone\|Decagone]]
 
+## Ran in Sessions / Campaigns
+##### Session / Campaign name
+Featured players? Maybe? Reformat later
+
 ## Reviews
 ##### Name here
 Review text

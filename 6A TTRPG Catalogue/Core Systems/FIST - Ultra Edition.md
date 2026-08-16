@@ -32,6 +32,10 @@ displayimage: FIST Ultra.png
 > [[FIST - MANDELBROT SET\|MANDLEBROT SET]]
 > [[FIST - RATIONS Collection\|RATIONS Collection]]
 
+## Ran in Sessions / Campaigns
+##### Session / Campaign name
+Featured players? Maybe? Reformat later
+
 ## Reviews
 ##### Name here
 Review text

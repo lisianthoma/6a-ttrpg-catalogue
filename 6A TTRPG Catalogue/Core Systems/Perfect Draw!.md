@@ -29,6 +29,10 @@ displayimage: Perfect Draw!.png
 > [!info]- Relevant Add-ons
 > [[Perfect Draw - The Booster Pack\|The Booster Pack]]
 
+## Ran in Sessions / Campaigns
+##### Session / Campaign name
+Featured players? Maybe? Reformat later
+
 ## Reviews
 ##### Name here
 Review text

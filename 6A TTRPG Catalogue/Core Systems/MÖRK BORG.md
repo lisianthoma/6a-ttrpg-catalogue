@@ -30,6 +30,10 @@ displayimage:
 > [[MÖRK BORG - The Cross Stitch\|The Cross Stitch]]
 > [[MÖRK BORG - Upon the Corpse Road\|Upon the Corpse Road]]
 
+## Ran in Sessions / Campaigns
+##### Session / Campaign name
+Featured players? Maybe? Reformat later
+
 ## Reviews
 ##### Name here
 Review text

@@ -32,6 +32,10 @@ displayimage: IoDM.png
 > [[IODM - Voyage to Brasil\|Voyage to Brasil]]
 > [[IODM - Escape from Planet Aeaea\|Escape from Planet Aeaea]]
 
+## Ran in Sessions / Campaigns
+##### Session / Campaign name
+Featured players? Maybe? Reformat later
+
 ## Reviews
 ##### Name here
 Review text

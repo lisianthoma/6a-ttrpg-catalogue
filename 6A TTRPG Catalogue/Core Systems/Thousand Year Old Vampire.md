@@ -29,6 +29,10 @@ displayimage: Thousand Year Old Vampire.png
 > [!info]- Relevant Add-ons
 > link expansions somewhere in the page
 
+## Ran in Sessions / Campaigns
+##### Session / Campaign name
+Featured players? Maybe? Reformat later
+
 ## Reviews
 ##### Name here
 Review text

@@ -35,6 +35,10 @@ displayimage: Mausritter.png
 > [[Mausritter - Citrus Pocus\|Citrus Pocus]]
 > [[Mausritter - Mice of P\|Mice of P]]
 
+## Ran in Sessions / Campaigns
+##### Session / Campaign name
+Featured players? Maybe? Reformat later
+
 ## Reviews
 ##### Name here
 Review text

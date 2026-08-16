@@ -30,6 +30,10 @@ displayimage:
 > [!info]- Relevant Add-ons
 > [[Fight or Flight]]
 
+## Ran in Sessions / Campaigns
+##### Session / Campaign name
+Featured players? Maybe? Reformat later
+
 ## Reviews
 ##### Name here
 Review text

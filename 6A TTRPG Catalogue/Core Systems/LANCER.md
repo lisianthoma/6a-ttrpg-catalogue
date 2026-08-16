@@ -35,6 +35,10 @@ displayimage: LANCER.png
 > 
 > [[LANCER - Enhanced Combat\|Enhanced Combat]]
 
+## Ran in Sessions / Campaigns
+##### Session / Campaign name
+Featured players? Maybe? Reformat later
+
 ## Reviews
 ##### Name here
 Review text

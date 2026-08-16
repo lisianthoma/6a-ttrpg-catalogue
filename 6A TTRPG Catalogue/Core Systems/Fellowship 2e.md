@@ -33,6 +33,10 @@ displayimage: Fellowship 2nd Edition.png
 > [[Fellowship Book 3 - In Rebellion\|Fellowship Book 3]]
 > [[Fellowship Book 4 - Generous Fellowship\|Fellowship Book 4]]
 
+## Ran in Sessions / Campaigns
+##### Session / Campaign name
+Featured players? Maybe? Reformat later
+
 ## Reviews
 ##### Name here
 Review text

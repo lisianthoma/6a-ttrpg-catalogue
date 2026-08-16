@@ -29,6 +29,10 @@ displayimage: Stillfleet.png
 > [!info]- Relevant Add-ons
 > [[Stillfleet - The Sleeper in the Sky\|The Sleeper in the Sky]]
 
+## Ran in Sessions / Campaigns
+##### Session / Campaign name
+Featured players? Maybe? Reformat later
+
 ## Reviews
 ##### Name here
 Review text

@@ -30,6 +30,10 @@ displayimage:
 > [[Trophy Dark - The Pried Eye\|The Pried Eye]]
 > [[Trophy Dark - Penumbra\|Penumbra]]
 
+## Ran in Sessions / Campaigns
+##### Session / Campaign name
+Featured players? Maybe? Reformat later
+
 ## Reviews
 ##### Name here
 Review text

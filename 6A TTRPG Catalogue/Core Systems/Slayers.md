@@ -33,6 +33,10 @@ displayimage: Slayers.png
 > [[Slayers - Corvidae\|Corvidae]]
 > [[Slayers - Dust\|Dust]]
 
+## Ran in Sessions / Campaigns
+##### Session / Campaign name
+Featured players? Maybe? Reformat later
+
 ## Reviews
 ##### Name here
 Review text

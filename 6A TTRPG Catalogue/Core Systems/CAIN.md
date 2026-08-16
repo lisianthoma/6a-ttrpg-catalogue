@@ -64,6 +64,10 @@ displayimage: Images/Core System Images/CAIN.png
 > [[CAIN - OPERATION STORMBREAK\|Operation Stormbreak]]
 > [[CAIN - Operation Weeping Mountain\|Operation Weeping Mountain]]
 
+## Ran in Sessions / Campaigns
+##### Session / Campaign name
+Featured players? Maybe? Reformat later
+
 ## Reviews
 ##### Name here
 Review text

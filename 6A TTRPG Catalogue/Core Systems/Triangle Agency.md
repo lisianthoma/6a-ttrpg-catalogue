@@ -29,6 +29,10 @@ displayimage: Triangle Agency.png
 > [!info]- Relevant Add-ons
 > [[Triangle Agency - The Faction Framework\|The Faction Framework]]
 
+## Ran in Sessions / Campaigns
+##### Session / Campaign name
+Featured players? Maybe? Reformat later
+
 ## Reviews
 ##### Name here
 Review text

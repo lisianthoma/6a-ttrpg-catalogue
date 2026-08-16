@@ -12,6 +12,10 @@ displayimage: FF XI.png
 > ```table-of-contents
 > ```
 
+## Ran in Sessions / Campaigns
+##### Session / Campaign name
+Featured players? Maybe? Reformat later
+
 ## Reviews
 ##### Name here
 Review text

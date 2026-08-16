@@ -30,6 +30,10 @@ displayimage: Microscope.png
 > [!info]- Relevant Add-ons
 > [[Microscope Explorer\|Explorer]]
 
+## Ran in Sessions / Campaigns
+##### Session / Campaign name
+Featured players? Maybe? Reformat later
+
 ## Reviews
 ##### Name here
 Review text
