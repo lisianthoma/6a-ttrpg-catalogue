@@ -32,6 +32,10 @@ displayimage: LANCER.png
 > [[LANCER - Field Guide to the Karrakin Trade Baronies\|Field Guide to the Karrakin Trade Baronies]]
 > [[LANCER - Operation Solstice Rain\|Operation Solstice Rain]]
 > [[LANCER - Dustgrave\|Dustgrave]]
+> [[LANCER - No Room for a Wallflower\|No Room for a Wallflower]]
+> [[LANCER - Siren's Song\|Siren's Song: A Mountain's Remorse]]
+> [[LANCER - Operation Winter Scar\|Operation Winter Scar]]
+> [[LANCER - Shadow of the Wolf\|Shadow of the Wolf]]
 > 
 > [[LANCER - Enhanced Combat\|Enhanced Combat]]
 
